@@ -1,0 +1,11 @@
+Flask
+tensorflow
+numpy
+Pillow
+scikit-image
+matplotlib
+keras
+split-folders
+scikit-learn
+seaborn
+streamlit
